@@ -118,7 +118,7 @@ const SignUp: React.FC = () => {
               placeholder="Confirmar senha"
             />
 
-            <h3>Ao se cadastrar você automaticamente concorda com nossos <a href="#">Termos de Uso</a></h3>
+            <h3>Ao se cadastrar você automaticamente concorda com nossos Termos de Uso</h3>
 
             <Button type="submit" icon={FaPaperPlane}>Cadastrar</Button>
           </Form>
